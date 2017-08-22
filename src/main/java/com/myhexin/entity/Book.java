@@ -6,7 +6,7 @@ import java.io.Serializable;
 public class Book implements Serializable{
 	private String name;
 
-	// 书的分类
+	// 书的分类1111
 	private String clz;
 
 	// 销售区域
